@@ -18,7 +18,7 @@ Over 15 years in software development. Proven track record in managing multiple 
 
 ## Professional Experience
 **Senior Programmer, Head of Development Team**
-*IPGPROMO, Yekaterinburg, Russia*
+*Internet Production Group, Yekaterinburg, Russia*
 *2018 - 2023*
 
 - Collaborated with cross-functional teams to develop, configure, and maintain Bitrix24 CRM solutions.
