@@ -50,3 +50,12 @@ Novouralsk Technological Institute at National Nuclear Research University "MEPh
 - Russian (Native)
 - English (A2)
 
+## Additional Information
+- Possesses excellent time management skills and the ability to independently plan and execute tasks.
+- Demonstrates initiative and a high sense of responsibility in project execution.
+- Strong team player with effective communication skills.
+- Willingness to work remotely from any location.
+- Committed to continuous learning and professional development.
+
+## Contact
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kirill-antropov/) for further inquiries.
