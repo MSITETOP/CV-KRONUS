@@ -14,8 +14,7 @@ Experienced Bitrix24 developer with a strong background in CRM and API systems, 
 Over 15 years in software development. Proven track record in managing multiple development teams and delivering high-quality applications and modules which helped businesses become more productive. Highly knowledgeable in a variety of programming languages and development technologies. I am passionate about creating innovative solutions that allow businesses to reach their full potential. I am a team player and have a strong work ethic, always striving for excellence in every project I undertake.
 
 ## Education
-- **University:** Novouralsk Technological Institute at National Nuclear Research University "MEPhI", Novouralsk, Russia
-- **Year of Graduation:** 2012
+2012, Novouralsk Technological Institute at National Nuclear Research University "MEPhI", Novouralsk, Russia
 
 ## Professional Experience
 **Senior Programmer, Head of Development Team**
