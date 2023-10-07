@@ -48,7 +48,7 @@ Over 15 years in software development. Proven track record in managing multiple 
 
 ## Languages
 - Russian (Native)
-- English (A2)
+- English (B1)
 
 ## Additional Information
 - Possesses excellent time management skills and the ability to independently plan and execute tasks.
